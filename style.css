@@ -1,0 +1,60 @@
+.navbar ul{
+	list-style-type: none;
+	background-color: grey;
+	margin: 0px;
+	padding: 0px;
+	outflow: hidden;
+	
+	
+}
+.navbar a{
+	text-decoration: none;
+	color: black;
+	padding: 15px;
+	display: block;
+	background-color: 29a81d
+}
+.navbar a:hover{
+	background-color: black;
+	color: 29a81d
+}
+	
+.navbar li{
+	float: left
+}
+
+#vid{
+	border-radius: 5px
+}
+
+#2 ul{
+	list-style-type: none
+}
+
+
+
+
+
+
+
+
+.navbar2 ul{
+	list-style-type: none;
+	background-color: grey;
+	margin: 0px;
+	padding: 0px;
+}
+.navbar2 a{
+	text-decoration: none;
+	color: 29a81d;
+	padding: 15px;
+	display: block;
+	background-color: black;
+	text-align: center;
+}
+.navbar2 a:hover{
+	background-color: black;
+	color: 29a81d
+}
+	
+
